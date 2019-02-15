@@ -1,0 +1,14 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "0.0.1",
+  "description": "数据结构与算法基础学习库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohong",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^0.14.8"
+  }
+}
